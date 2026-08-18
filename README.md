@@ -1,7 +1,7 @@
 # Hospital Performance Analysis
 
 ## Project Overview
-Exploratory Data Analysis of U.S. hospital performance data. This project benchmarks **Government vs Private** healthcare 
+Exploratory Data Analysis of U.S. hospital performance data. This project benchmarks **Government vs Private vs Church vs Unknown vs Proprietary** healthcare 
 facilities across 3 key dimensions: **cost, quality, and safety ratings** for Heart Attack, Heart Failure, and Pneumonia procedures.
 
 The analysis focuses on facility-type level trends to identify systemic patterns in healthcare delivery and value.
